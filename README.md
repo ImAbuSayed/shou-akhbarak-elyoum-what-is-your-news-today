@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي من عمق الويل
+> شوقي إليك كبحر بلا مرسى
+> أين السلام وروحك المأوى
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
