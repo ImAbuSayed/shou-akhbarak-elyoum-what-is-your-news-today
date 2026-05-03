@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Shou Akhbarak Elyoum – What is your news today? |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shou-akhbarak-elyoum-what-is-your-news-today/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
