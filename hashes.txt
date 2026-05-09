@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shou Akhbarak Elyoum – What is your news today?
+
+This log tracks the cryptographic history and versioning for the song **Shou Akhbarak Elyoum – What is your news today?** (shou-akhbarak-elyoum-what-is-your-news-today).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:13:30.274386 | `v1` | `007a9982ffaf131d3f30882e4e0a60b624ad201bf09c81b8d95ba0e7bd219ea2` | `826e706fd641a3f6bd06d6c0e09cc22ca9b5383180476664756180d678d732d7` | `2026-05-09_shou-akhbarak-elyoum-what-is-your-news-today-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
